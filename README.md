@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 python develpoer !!
 Machine learning enthusiast !!Active Researcher!! Web Developer !! Unity Developer!!
 - 🔭 I’m currently working on Handwriting recognition
+- 🌱 I’m currently learning Cloud Computing
