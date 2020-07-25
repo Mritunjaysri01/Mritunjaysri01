@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Skilled in Python, Artificial Intelligence (Ai), Machine Learning (ML),Web Designing, Java and Android Development.
 python develpoer !!
 Machine learning enthusiast !!Active Researcher!! Web Developer !! Unity Developer!!
 - 🔭 I’m currently working on Handwriting recognition
