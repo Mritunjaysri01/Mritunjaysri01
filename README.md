@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br />
 <p align="center">
   <a href="https://github.com/mritunjaysri01/mritunjaysri01">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/mritunjaysri01/mritunjaysri01/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Mritunjay Srivastava</h3>
@@ -31,10 +31,6 @@ python develpoer !! Machine learning enthusiast !!Active Researcher!! Web Develo
     <br />
 
 ## Skilled in Python, Artificial Intelligence (Ai), Machine Learning (ML),Web Designing, Java and Android Development.
-python develpoer !!
-Machine learning enthusiast !!Active Researcher!! Web Developer !! Unity Developer!!
-- 🔭 I’m currently working on Handwriting recognition
-- 🌱 I’m currently learning Cloud Computing
 
 <h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
