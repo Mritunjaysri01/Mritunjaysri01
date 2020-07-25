@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br />
 <p align="center">
   <a href="https://github.com/mritunjaysri01/mritunjaysri01">
-    <img src="https://github.com/mritunjaysri01/mritunjaysri01/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Mritunjaysri01/Mritunjaysri01/blob/master/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Mritunjay Srivastava</h3>
