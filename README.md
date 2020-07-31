@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <p align="center">
 python develpoer !! Machine learning enthusiast !!Active Researcher!! Web Developer !! Unity Developer!!
     <br />
-    <a href="https://www.linkedin.com/in/mritunjay-srivastava-9b83a0185/"><strong>Explore the Profile »</strong></a>
+    <a href="https://mritunjaysri01.github.io"><strong>Explore the Profile »</strong></a>
     <br />
     <br />
 
