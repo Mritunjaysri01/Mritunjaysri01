@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <h3 align="center">Mritunjay Srivastava</h3>
 
   <p align="center">
-python develpoer !! Machine learning enthusiast !!Active Researcher!! Web Developer !! Unity Developer!!
+python developer !! Machine learning enthusiast !!Active Researcher!! Web Developer !! Unity Developer!!
     <br />
     <a href="https://mritunjaysri01.github.io"><strong>Explore the Profile »</strong></a>
     <br />
