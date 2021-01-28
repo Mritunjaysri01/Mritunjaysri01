@@ -32,8 +32,9 @@ python developer !! Machine learning enthusiast !!Active Researcher!! Web Develo
 
 <h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
- <a href = https://github.com/mritunjaysri01 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
+<a href = https://dsc.community.dev/u/mnu4kw/ target='blank'> <img src=https://github.com/Mritunjaysri01/Mritunjaysri01/blob/master/1_pjxAGSGs_ed_pAMaCc8Ttw.png height='30' weight='30'/></a>
+<a href = https://github.com/mritunjaysri01 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
 <a href =https://www.linkedin.com/in/mritunjay-srivastava-9b83a0185/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
 <a href = https://twitter.com/mritunjaysri01 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
-<a href = https://dsc.community.dev/u/mnu4kw/ target='blank'> <img src=https://github.com/Mritunjaysri01/Mritunjaysri01/blob/master/1_pjxAGSGs_ed_pAMaCc8Ttw.png height='30' weight='30'/></a>
+
 
