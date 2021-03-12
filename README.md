@@ -28,7 +28,7 @@ python developer !! Machine learning enthusiast !!Active Researcher!! Web Develo
     <br />
     <br />
 
-## Skilled in Python, Artificial Intelligence (Ai), Machine Learning (ML),Web Designing, Java and Android Development.
+## Skilled in Python, Artificial Intelligence (Ai), Machine Learning (ML),Web Designing,Game Development, Java and Android Development.
 
 <h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
