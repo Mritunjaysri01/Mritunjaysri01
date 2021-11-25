@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <br />
     <br />
 
-## Skilled in Python, Artificial Intelligence (Ai), Machine Learning (ML),Web Designing,Game Development, Java and Android Development.
+## Skilled in C#,REST APIs, Machine Learning (ML),Game Development and XR DEVELOPEMENT
 
 <h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
