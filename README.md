@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <br />
     <br />
 
-## Skilled in C#,REST APIs, Machine Learning (ML),Game Development and XR DEVELOPEMENT
+## Skilled in C#,REST APIs, Machine Learning (ML),Game Development and XR DEVELOPER
 
 <h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
