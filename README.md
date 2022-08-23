@@ -1,40 +1,56 @@
+<h1 align="center">
+  <b>MritunjaySri01</b>
+</h1>
+
+Heya! I'm Mritunjay Srivastava, a Software Engineer.
+<br>
+
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white ">
+  <img src=" https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white ">
+  <img src=" https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white "> 
+  
+  </div>
+</p>
+
+```python
+class AbhigyanTrips():
+    
+  def __init__(self):
+    self.name = "Mritunjay Srivastava";
+    self.username = "mritunjaysri01";
+    self.location = "Delhi, India";
+    self.twitter = "@mritunjaysri01";
+    self.web = "https://mritunjaysri01.github.io";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = mritunjaysri01()
+```
+
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
+
 <!--
-**Mritunjaysri01/Mritunjaysri01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  </a>
+</div>
 -->
 
-<br />
-<p align="center">
-  <a href="https://github.com/mritunjaysri01/mritunjaysri01">
-    <img src="https://github.com/Mritunjaysri01/Mritunjaysri01/blob/master/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">Mritunjay Srivastava</h3>
-
-  <p align="center">
-    Active Researcher!! Game Developer !! XR Developer!! C# Developer
-    <br />
-    <a href="https://mritunjaysri01.github.io"><strong>Explore the Profile »</strong></a>
-    <br />
-    <br />
-
-## Skilled in C#,REST APIs, Machine Learning (ML),Game Development and XR DEVELOPER
-
-<h2 align='center'>Connect with me  📫 </h2>
-<p align = 'center'> 
-<a href = https://dsc.community.dev/u/mnu4kw/ target='blank'> <img src=https://github.com/Mritunjaysri01/Mritunjaysri01/blob/master/sGdlWytw_400x400.jpg height='30' weight='30'/></a>
-<a href = https://github.com/mritunjaysri01 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
-<a href =https://www.linkedin.com/in/mritunjay-srivastava-9b83a0185/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
-<a href = https://twitter.com/mritunjaysri01 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
 
 
