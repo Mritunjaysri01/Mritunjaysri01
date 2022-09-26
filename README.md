@@ -21,7 +21,7 @@ Heya! I'm Mritunjay Srivastava, a Software Engineer.
 </p>
 
 ```python
-class AbhigyanTrips():
+class MritunjaySri01():
     
   def __init__(self):
     self.name = "Mritunjay Srivastava";
